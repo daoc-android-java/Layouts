@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <Button
+        android:id="@+id/Button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"        
+        android:background="#906613"
+        android:text="@string/hello_world" />
+
+    <Button
+        android:id="@+id/Button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"        
+        android:layout_centerVertical="true"
+        android:background="#8B7D8C"
+        android:text="@string/hello_world" />
+
+    <Button
+        android:id="@+id/Button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"  
+        android:layout_centerVertical="true"
+        android:background="#AD9890"
+        android:text="@string/hello_world" />
+    
+    <Button
+        android:id="@+id/Button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:layout_alignParentRight="true"        
+        android:layout_centerVertical="true"
+        android:background="#C1B3A1"
+        android:text="@string/hello_world" />
+
+    <Button
+        android:id="@+id/Button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" 
+        android:background="#DCCABD"
+        android:text="@string/hello_world" />    
+
+</RelativeLayout>

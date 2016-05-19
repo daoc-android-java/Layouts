@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\dordonez\\GitHub\\Android\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\relative2.xml",
+        "source": "C:\\Users\\dordonez\\GitHub\\Android\\Layouts\\app\\src\\main\\res\\layout\\relative2.xml"
+    },
+    {
+        "merged": "C:\\Users\\dordonez\\GitHub\\Android\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base.xml",
+        "source": "C:\\Users\\dordonez\\GitHub\\Android\\Layouts\\app\\src\\main\\res\\layout\\base.xml"
+    },
+    {
+        "merged": "C:\\Users\\dordonez\\GitHub\\Android\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gravity1.xml",
+        "source": "C:\\Users\\dordonez\\GitHub\\Android\\Layouts\\app\\src\\main\\res\\layout\\gravity1.xml"
+    },
+    {
+        "merged": "C:\\Users\\dordonez\\GitHub\\Android\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gravity2.xml",
+        "source": "C:\\Users\\dordonez\\GitHub\\Android\\Layouts\\app\\src\\main\\res\\layout\\gravity2.xml"
+    },
+    {
+        "merged": "C:\\Users\\dordonez\\GitHub\\Android\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weight.xml",
+        "source": "C:\\Users\\dordonez\\GitHub\\Android\\Layouts\\app\\src\\main\\res\\layout\\weight.xml"
+    },
+    {
+        "merged": "C:\\Users\\dordonez\\GitHub\\Android\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\relative1.xml",
+        "source": "C:\\Users\\dordonez\\GitHub\\Android\\Layouts\\app\\src\\main\\res\\layout\\relative1.xml"
+    }
+]

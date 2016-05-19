@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#906613"
+        android:text="@string/hello_world" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#8B7D8C"
+        android:text="@string/hello_world" />   
+        
+    <LinearLayout 
+    	android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_weight="2"
+	    android:orientation="horizontal">
+        
+        <Button
+	        android:layout_width="wrap_content"
+	        android:layout_height="match_parent"
+	        android:layout_weight="1"
+	        android:background="#AD9890"
+	        android:text="@string/hello_world" />
+
+	    <Button
+	        android:layout_width="wrap_content"
+	        android:layout_height="match_parent"
+	        android:layout_weight="2"     
+	        android:background="#C1B3A1"
+	        android:text="@string/hello_world" />
+        
+    </LinearLayout>
+    
+</LinearLayout>
